@@ -1,0 +1,4 @@
+﻿  date.cpp
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 2\Assignment 2\date.cpp(66): warning C4715: 'Date::checkYear': not all control paths return a value
+C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 2\Assignment 2\date.cpp(52): warning C4715: 'Date::checkDay': not all control paths return a value
+  Assignment 2.vcxproj -> C:\Users\ryanm\OneDrive\Desktop\school\Semester 3 Fall 2020\Data Structures Algorithm Analysis\Assignment 2\Debug\Assignment 2.exe
